@@ -11,7 +11,7 @@ def medium_func():
    num = int(input('Введите число:'))
    num2 = num + 2
    while True:
-      if num2 == 5:
+      if num2 == 8:
         print('Всё нормально')
         break
       else:
