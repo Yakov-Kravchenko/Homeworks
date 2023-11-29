@@ -5,5 +5,4 @@ def funcprint():
         print('Всё нормально')
     else:
         print('Попробуйте ещё раз')
-
 funcprint()
