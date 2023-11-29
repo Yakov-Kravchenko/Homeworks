@@ -6,3 +6,14 @@ def easy_func():
        print('Всё правильно!')
     else:
        print('Неверно')
+
+def medium_func():
+   num = int(input('Введите число:'))
+   num2 = num + 2
+   while True:
+      if num2 == 5:
+        print('Всё нормально')
+        break
+      else:
+        print('Попробуйте ещё раз')
+medium_func()
