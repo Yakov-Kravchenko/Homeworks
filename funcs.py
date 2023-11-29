@@ -17,3 +17,4 @@ def medium_func():
       else:
         print('Попробуйте ещё раз')
 medium_func()
+123
